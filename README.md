@@ -1,6 +1,6 @@
 # Documentação de Projeto — FitControl  
 **Versão 1.0**  
-Projeto elaborado pelo(s) aluno(s) AAAA  
+Projeto elaborado pelo(s) aluno(s) Diogo Caribé Brunoro  
 Disciplina: Projeto de Software  
 **Data:** 10/11/2025  
 
